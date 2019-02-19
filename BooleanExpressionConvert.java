@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/**
+ * @author: Muhammadjon Hakimov
+ * created: 21.01.2019 15:03:24
+ */
+
 public class BooleanExpressionConvert {
     private static StringBuilder output = new StringBuilder();
 

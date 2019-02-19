@@ -2,6 +2,11 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 
+/**
+ * @author: Muhammadjon Hakimov
+ * created: 20.01.2019 13:01:56
+ */
+
 public class SortingUtility {
     private static List<String> linesWithNumbers = new ArrayList<>();
     private static List<String> linesWithLowerLetters = new ArrayList<>();
