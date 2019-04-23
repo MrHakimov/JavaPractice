@@ -1,6 +1,11 @@
 import java.io.IOException;
 import java.util.NoSuchElementException;
 
+/**
+ * @author: Muhammadjon Hakimov
+ * created: 20.04.2019 14:02:46
+ */
+
 public class SplayTree {
     private static Node root;
     private static final int INF = 2000000001;
